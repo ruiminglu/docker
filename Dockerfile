@@ -1,4 +1,4 @@
 FROM alpine:latest
 
 ENTRYPOINT ["echo"]
-CMD ["HELLO WORLD"]
+CMD ["HELLO WORLD2"]
